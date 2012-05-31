@@ -1,4 +1,6 @@
-websockets
-==========
+This is an impl of Play2.0.1 and its websocket support (using Scala)
 
-websockets using play2 and scala
+Please feel free to yank any of the bits
+
+--
+@gautamnc
