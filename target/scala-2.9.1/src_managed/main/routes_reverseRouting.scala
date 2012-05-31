@@ -1,6 +1,6 @@
-// @SOURCE:/Users/gchandra/Applications/play-2.0.1/apps/websockets/conf/routes
+// @SOURCE:/Users/gchandra/git/websockets/conf/routes
 // @HASH:4ab3ae2b20275a92a9326520f76c1db029396b14
-// @DATE:Thu May 31 14:01:00 PDT 2012
+// @DATE:Thu May 31 14:29:39 PDT 2012
 
 import play.core._
 import play.core.Router._
